@@ -2,11 +2,11 @@
     background-color: #ff69b4;
     font-family: Verdana, Dejavu Sans, sans-sarif;
 }
-.two {
+#two {
     color: #0000ff;
     font-size: 36px;
 }
-.four {
+#four {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
