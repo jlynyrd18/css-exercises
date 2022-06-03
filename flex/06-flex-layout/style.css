@@ -37,4 +37,19 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  gap: 10px;
+}
+
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.right-links{
+  margin-right: 20px;
+}
+
+.footer {
+  background-color: lightgray;
 }
